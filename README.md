@@ -2,6 +2,7 @@
 DIY MBA curriculum.
 
 ### Books
+- [_Camile Fournier_, The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 - [_Lawrence Freedman_, Strategy: A History](https://www.amazon.com/Strategy-History-Lawrence-Freedman/dp/1501227726)
 - [_Ori Brafman_, The Starfish and the Spider](http://amzn.to/2fRcomG)
 - [_Alexander Osterwalder_, Business Model Generation](http://amzn.to/2gQsaxU)
