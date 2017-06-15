@@ -33,6 +33,8 @@ DIY MBA curriculum.
 - [ ] [Competitive Strategy 1](https://www.coursera.org/learn/competitive-strategy)
 - [ ] [Competitive Strategy 2](https://www.coursera.org/learn/advanced-competitive-strategy)
 - [ ] [LMU: Strategic Organization Design](https://www.coursera.org/learn/organization-design)
+- [ ] [Fundamentals of Market Structure](https://www.edx.org/course/fundamentals-market-structure-new-york-institute-finance-etfm2016-1x#!)
+- [ ] [Fundamental Concepts of Mergers and Acquisitions](https://www.edx.org/course/ma-concepts-theories-new-york-institute-finance-ma1-1x#!)
 
 #### IRL
 - [x] [General Assembly Data Science 11wk course](https://generalassemb.ly/education/data-science)
