@@ -7,6 +7,7 @@ DIY MBA curriculum.
 - [_Ori Brafman_, The Starfish and the Spider](http://amzn.to/2fRcomG)
 - [_Alexander Osterwalder_, Business Model Generation](http://amzn.to/2gQsaxU)
 - [_Robert Coram_, Boyd](http://amzn.to/2gx6RB2)
+- [_William Zinsser_, On Writing Well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
 - [_Marc Stickdom_, Service Design Thinking](http://amzn.to/2gQsDAm)
 - [_Eric Ries_, Lean Startup](http://amzn.to/2h41Uka)
 - [_Emily Chan_, Harvard Business School Confidential](http://amzn.to/2fR4uK6)
